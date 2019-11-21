@@ -7,7 +7,7 @@ title: About or not about
     echo "hi";
 
     function($a) {
-        echo $a;
+        echo $a * $a;
     }
 ?>
 ```
